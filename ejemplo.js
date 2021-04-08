@@ -1,0 +1,1 @@
+console.log("ejecución de un archivo desde el bloc de notas");
